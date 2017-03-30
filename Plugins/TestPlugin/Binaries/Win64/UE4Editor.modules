@@ -1,0 +1,8 @@
+{
+	"Changelist" : 3299760,
+	"BuildId" : "93978908-e8a9-490b-a3e4-1bdfd0a79356",
+	"Modules" : 
+	{
+		"TestPlugin" : "UE4Editor-TestPlugin-8213.dll"
+	}
+}

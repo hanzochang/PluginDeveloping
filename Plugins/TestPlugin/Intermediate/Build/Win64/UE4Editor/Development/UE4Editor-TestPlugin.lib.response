@@ -16,6 +16,7 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 "C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
+"C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\TestPlugin.generated.cpp.obj"
 "C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\TestPlugin\PCLaunch.rc.res"
 "C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
 /OUT:"C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TestPlugin.lib"

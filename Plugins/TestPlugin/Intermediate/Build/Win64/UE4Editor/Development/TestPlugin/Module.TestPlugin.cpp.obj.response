@@ -26,6 +26,8 @@
 /I C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Source\TestPlugin\Private
 /I C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Source
 /I C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Source\TestPlugin\Public
+/I C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Source\TestPlugin\Public\Actor
+/I C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\TestPlugin
 /I C:\UE_workspace\PluginDeveloping\Plugins\TestPlugin\Source\TestPlugin
 /I "C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Source\Runtime\Engine\Classes"
 /I "C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Source\Runtime\Engine\Public"

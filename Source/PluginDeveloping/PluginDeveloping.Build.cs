@@ -8,7 +8,7 @@ public class PluginDeveloping : ModuleRules
 	{
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 
-		PrivateDependencyModuleNames.AddRange(new string[] { "TestPlugin" });
+		PrivateDependencyModuleNames.AddRange(new string[] { "SplineMover", "TestPlugin" });
 
 		// Uncomment if you are using Slate UI
 		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });

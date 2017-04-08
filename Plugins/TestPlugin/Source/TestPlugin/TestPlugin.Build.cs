@@ -8,7 +8,7 @@ namespace UnrealBuildTool.Rules
 		{
 			PublicIncludePaths.AddRange(new string[]{ "TestPlugin/Public" });
 			PrivateIncludePaths.AddRange(new string[]{ "TestPlugin/Private" });
-			PrivateDependencyModuleNames.AddRange(new string[]{ "Engine", "Core" });
+			PrivateDependencyModuleNames.AddRange(new string[]{ "Engine", "Core", "CoreUObject" });
 			DynamicallyLoadedModuleNames.AddRange(new string[]{});
 		}
 	}

@@ -17,6 +17,10 @@
 		{
 			"Name": "TestPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "SplineMover",
+			"Enabled": true
 		}
 	]
 }

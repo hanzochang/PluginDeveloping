@@ -1,19 +1,8 @@
 // Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
 
-#include "CoreMinimal.h"
-#include "Modules/ModuleManager.h"
-#include "ITestPlugin.h"
+#include "TestPluginPrivatePCH.h"
 
-
-class FTestPlugin : public ITestPlugin
-{
-	/** IModuleInterface implementation */
-	virtual void StartupModule() override;
-	virtual void ShutdownModule() override;
-};
-
-IMPLEMENT_MODULE( FTestPlugin, TestPlugin )
-
+#define LOCTEXT_NAMESPACE "FTestPlugin"
 
 void FTestPlugin::StartupModule()
 {
@@ -27,5 +16,6 @@ void FTestPlugin::ShutdownModule()
 	// we call this function before unloading the module.
 }
 
+#undef LOCTEXT_NAMESPACE
 
-
+IMPLEMENT_MODULE( FTestPlugin, TestPlugin )
